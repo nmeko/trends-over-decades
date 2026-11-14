@@ -112,7 +112,7 @@ details p { margin-top: 8px; }
 .table-scroll { overflow-x: auto; border-radius: var(--radius); border: 1px solid var(--line); background: var(--paper); }
 table { border-collapse: collapse; width: 100%; min-width: 640px; }
 th, td { padding: 12px 14px; text-align: left; border-bottom: 1px solid var(--line); vertical-align: middle; }
-th { font-size: .85rem; text-transform: uppercase; letter-spacing: .06em; color: var(--plum-soft); }
+th { font-size: .9rem; color: var(--plum-soft); }
 td img { width: 64px; height: 64px; object-fit: cover; border-radius: 10px; }
 tbody tr:last-child td { border-bottom: 0; }
 
@@ -137,3 +137,4 @@ tbody tr:last-child td { border-bottom: 0; }
 td a { font-weight: 600; }
 .video-link { margin: 10px 0 18px; font-weight: 600; }
 .nowrap { white-space: nowrap; }
+.src { display: block; margin-top: 4px; font-size: .85rem; }
