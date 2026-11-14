@@ -130,3 +130,10 @@ tbody tr:last-child td { border-bottom: 0; }
 .site-footer a { color: var(--cream); }
 .site-footer ul { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 6px 16px; }
 .site-footer p { margin: 0; opacity: .85; }
+
+/* Table notes and video links */
+.note { font-size: .9rem; color: var(--plum-soft); margin-top: 12px; }
+.muted { color: var(--plum-soft); font-size: .9em; white-space: nowrap; }
+td a { font-weight: 600; }
+.video-link { margin: 10px 0 18px; font-weight: 600; }
+.nowrap { white-space: nowrap; }

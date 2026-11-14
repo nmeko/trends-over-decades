@@ -12,10 +12,10 @@ A website about how fashion changed from the 1960s to the 2000s, one decade per 
 |---|---|
 | `index.html` | Introduction and a card for each decade |
 | `1960s.html` | Early, mid and late '60s styles, top influencers, a price catalog and a video |
-| `1970s.html` | Key styles and a photo gallery |
-| `1980s.html` | Outfit catalog with details for each look |
-| `1990s.html` | Trends, icons, accessories and how the '90s are coming back |
-| `2000s.html` | Signature Y2K looks with details for each |
+| `1970s.html` | Key styles, a photo gallery, a price table, a video and a source for more |
+| `1980s.html` | Outfit catalog, a price table, a video and a source for more |
+| `1990s.html` | Trends, icons, accessories, a price table, a video and a source for more |
+| `2000s.html` | Signature Y2K looks, a price table, a video and a source for more |
 
 ## Run it
 
@@ -32,3 +32,7 @@ assets/img/                            logo and photos, organized by decade
 ## Team
 
 Made by Fashion Team 5. Each team member researched and built one decade's page.
+
+## Prices
+
+Every decade page has a "then vs. now" table. Original prices link to their sources, and today's prices are adjusted into 2024 dollars with the U.S. Consumer Price Index (BLS CPI-U): price × (2024 CPI ÷ CPI in that year).
